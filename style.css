@@ -1,0 +1,20 @@
+body {
+    background: #26196d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #a32424;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    background: #700874;
+    box-shadow: 0 0 20px #e408e4;
+}
+
+#score {
+    margin-left: 20px;
+    font-size: 24px;
+    color: #d9ff00;
+}
